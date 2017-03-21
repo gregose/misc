@@ -1,6 +1,6 @@
 Foo
 
-<ol>
+<ol class="blah123">
 test
 </ol>
 
